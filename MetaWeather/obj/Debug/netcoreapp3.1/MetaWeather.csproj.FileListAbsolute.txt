@@ -1,0 +1,17 @@
+C:\Users\Jamie\source\repos\Fivecast\MetaWeather\obj\Debug\netcoreapp3.1\MetaWeather.AssemblyInfoInputs.cache
+C:\Users\Jamie\source\repos\Fivecast\MetaWeather\obj\Debug\netcoreapp3.1\MetaWeather.AssemblyInfo.cs
+C:\Users\Jamie\source\repos\Fivecast\MetaWeather\obj\Debug\netcoreapp3.1\MetaWeather.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\Fivecast\MetaWeather\bin\Debug\netcoreapp3.1\MetaWeather.deps.json
+C:\Users\Jamie\source\repos\Fivecast\MetaWeather\bin\Debug\netcoreapp3.1\MetaWeather.dll
+C:\Users\Jamie\source\repos\Fivecast\MetaWeather\bin\Debug\netcoreapp3.1\MetaWeather.pdb
+C:\Users\Jamie\source\repos\Fivecast\MetaWeather\obj\Debug\netcoreapp3.1\MetaWeather.dll
+C:\Users\Jamie\source\repos\Fivecast\MetaWeather\obj\Debug\netcoreapp3.1\MetaWeather.pdb
+C:\Users\Jamie\source\repos\Forecast\MetaWeather\bin\Debug\netcoreapp3.1\MetaWeather.deps.json
+C:\Users\Jamie\source\repos\Forecast\MetaWeather\bin\Debug\netcoreapp3.1\MetaWeather.dll
+C:\Users\Jamie\source\repos\Forecast\MetaWeather\bin\Debug\netcoreapp3.1\MetaWeather.pdb
+C:\Users\Jamie\source\repos\Forecast\MetaWeather\obj\Debug\netcoreapp3.1\MetaWeather.csprojAssemblyReference.cache
+C:\Users\Jamie\source\repos\Forecast\MetaWeather\obj\Debug\netcoreapp3.1\MetaWeather.AssemblyInfoInputs.cache
+C:\Users\Jamie\source\repos\Forecast\MetaWeather\obj\Debug\netcoreapp3.1\MetaWeather.AssemblyInfo.cs
+C:\Users\Jamie\source\repos\Forecast\MetaWeather\obj\Debug\netcoreapp3.1\MetaWeather.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\Forecast\MetaWeather\obj\Debug\netcoreapp3.1\MetaWeather.dll
+C:\Users\Jamie\source\repos\Forecast\MetaWeather\obj\Debug\netcoreapp3.1\MetaWeather.pdb

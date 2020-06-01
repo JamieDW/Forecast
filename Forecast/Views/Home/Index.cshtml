@@ -1,0 +1,21 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+
+
+@if (SignInManager.IsSignedIn(User))
+{
+    <div class="text-center">
+        <a class="text-white" href="@Url.Action("Index", "Weather")">View Forecast</a>
+    </div>
+}
+else
+{
+    <div class="alert alert-info" role="alert">
+        @Forecast.Resources.Common.Weather_Info
+    </div>
+}
+
+
+

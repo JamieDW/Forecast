@@ -1,0 +1,46 @@
+﻿
+@model WeatherViewModel;
+
+<div class="col-12 col-md-6 col-xl pb-5">
+    <div class="text-white bg-grey-700 p-2 shadow-sm rounded">
+
+
+        <div class="font-weight-bold">
+            @Html.DisplayFor(m => m.Day)
+        </div>
+        <div class="font-weight-light">
+            @Html.DisplayFor(m => m.Date)
+        </div>
+        <div class="row">
+            <div class="col-6 col-md-8 mx-auto">
+                <img src="@Model.IconUrl" class="img-fluid">
+            </div>
+
+        </div>
+        <div class="row">
+            <h4 class="col text-center font-weight-bolder py-2">
+                @Html.DisplayFor(m => m.MaxTemp) / @Html.DisplayFor(m => m.MinTemp)@Forecast.Resources.Common.DegreeCelsiusSymbol
+            </h4>
+        </div>
+        <div class="row">
+            <p class="col text-center mb-0">
+                <span class="text-white-50">@Forecast.Resources.Common.Predictability:</span> @Html.DisplayFor(m => m.Predictability) %
+            </p>
+        </div>
+        <div class="row">
+            <p class="col text-center mb-0">
+                <span class="text-white-50">@Forecast.Resources.Common.Humidity:</span> @Html.DisplayFor(m => m.Humidity) %
+            </p>
+        </div>
+        <div class="row">
+            <p class="col text-center mb-0">
+                <span class="text-white-50">@Forecast.Resources.Common.Wind_Speed:</span> @Html.DisplayFor(m => m.WindSpeed) @Forecast.Resources.Common.MilesPerHourAbbreviation
+            </p>
+        </div>
+        <div class="row">
+            <p class="col text-center mb-0">
+                <span class="text-white-50">@Forecast.Resources.Common.Pressure:</span> @Html.DisplayFor(m => m.AirPressure) @Forecast.Resources.Common.AirPressureAbbreviation
+            </p>
+        </div>
+    </div>
+</div>
